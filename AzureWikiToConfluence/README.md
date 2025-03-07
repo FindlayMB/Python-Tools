@@ -1,4 +1,4 @@
-# azure-to-confluence-migration
+# Azure To Confluence Migration
 
 Code written to migrate the wiki from Azure DevOps to Confluence
 
